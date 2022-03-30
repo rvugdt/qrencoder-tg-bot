@@ -1,6 +1,5 @@
 import telebot
 import qrcode
-import time
 
 token = ""
 bot = telebot.TeleBot(token)
